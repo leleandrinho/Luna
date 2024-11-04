@@ -39,6 +39,7 @@
   <li><strong>Reconhecimento de Música</strong>: <code>Shazamio</code></li>
   <li><strong>Visão Computacional</strong>: <code>cv2</code>, <code>cvlib</code>, <code>numpy</code></li>
   <li><strong>Reconhecimento de Texto</strong>: <code>easyocr</code></li>
+   <li><strong>Inteligência Artificial</strong>: <code>Llama 3.1</code></li>
 </ul>
 
 <h2>Como Usar 🚀</h2>
